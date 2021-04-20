@@ -1,6 +1,7 @@
 {
   "name": "webpack-test",
   "version": "1.0.0",
+  "homepage": "http://AkagamiTendo.github.io/1.6_maket",
   "description": "",
   "main": "index.js",
   "keywords": [],
@@ -44,3 +45,4 @@
     "deploy": "gh-pages -d dist"
   }
 }
+
